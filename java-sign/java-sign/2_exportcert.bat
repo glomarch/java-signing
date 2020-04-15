@@ -1,0 +1,1 @@
+keytool -exportcert -alias CharliePeng -storetype PKCS12  -keystore Kafeirenyierat_keystore.pfx -file   Kafeirenyierat_keystore.cer -rfc -storepass xxxx

@@ -1,0 +1,1 @@
+keytool -genkeypair -alias CharliePeng -keyalg RSA -keysize 2048  -dname "CN=Test Common Name" -validity 365 -storetype PKCS12  -keystore Kafeirenyierat_keystore.pfx -storepass xxx
